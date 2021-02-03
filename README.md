@@ -1,2 +1,2 @@
-# planning
-기획서 관리
+# needs
+요구사항 관리
